@@ -1,0 +1,16 @@
+{
+  "name": "koa-static-server-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Akachu/koa-static-server-example.git",
+  "author": "marscop <marscop@naver.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./"
+  },
+  "dependencies": {
+    "koa": "^2.11.0",
+    "koa-send": "^5.0.0",
+    "koa-static": "^5.0.0"
+  }
+}
